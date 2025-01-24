@@ -7,3 +7,9 @@
 <u>Topic Covered:-</u>
 * Practice on core components of React-Native(View, Text, Button).
 * Practice on JSX file structure.
+***
+<u>Date:- 24/01/2025 </u><br>
+<u>Topic Covered:-</u>
+* Practice on (functional/class)components.
+* Practice on Button component in detail.
+***
