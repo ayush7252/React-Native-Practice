@@ -13,3 +13,8 @@
 * Practice on (functional/class)components.
 * Practice on Button component in detail.
 ***
+<u>Date:- 27/01/2025 </u><br>
+<u>Topic Covered:-</u>
+* Practice on State(useState) management.
+* Understanding of props in functional componemt.
+***
