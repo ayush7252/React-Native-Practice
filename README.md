@@ -16,5 +16,5 @@
 <u>Date:- 27/01/2025 </u><br>
 <u>Topic Covered:-</u>
 * Practice on State(useState) management.
-* Understanding of props in functional componemt.
+* Understanding of props in functional component.
 ***
