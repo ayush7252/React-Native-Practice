@@ -18,3 +18,7 @@
 * Practice on State(useState) management.
 * Understanding of props in functional Components in App.
 ***
+<u>Date:- 28/01/2025 </u><br>
+<u>Topic Covered:-</u>
+* Practice of Styling using InLine , Internal(Using Stylesheet API) css .
+***
