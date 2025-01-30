@@ -26,3 +26,7 @@
 <u>Topic Covered:-</u>
 * Practice of TextInput component to build a basic form.
 ***
+<u>Date:- 23/01/2025 </u><br>
+<u>Topic Covered:-</u>
+* Practice of Flatlist for traversing on list of data.
+***
