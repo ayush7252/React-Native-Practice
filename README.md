@@ -26,7 +26,12 @@
 <u>Topic Covered:-</u>
 * Practice of TextInput component to build a basic form.
 ***
-<u>Date:- 23/01/2025 </u><br>
+<u>Date:- 30/01/2025 </u><br>
 <u>Topic Covered:-</u>
 * Practice of Flatlist for traversing on list of data.
+***
+<u>Date:- 03/02/2025 </u><br>
+<u>Topic Covered:-</u>
+* Print Data From Given Array Of Data using Array Method (map).
+* A basic App for Exploring all ways of creating cards.
 ***
