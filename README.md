@@ -35,3 +35,8 @@
 * Print Data From Given Array Of Data using Array Method (map).
 * A basic App for Exploring all ways of creating cards.
 ***
+<u>Date:- 04/02/2025 </u><br>
+<u>Topic Covered:-</u>
+* Build a app for practice of TextInput & Button component to understand the use of useState Hook.
+* Build a basic Background color changer app. 
+***
