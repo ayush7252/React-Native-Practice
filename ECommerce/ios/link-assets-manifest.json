@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Parisienne-Regular.ttf",
+      "sha1": "0170d4daad70f43d3e568c6acb340b3b622131f5"
+    },
+    {
+      "path": "assets/fonts/Tangerine-Bold.ttf",
+      "sha1": "7fcaa79bed1e9346d6a5968705e9b13c52b4aea4"
+    }
+  ]
+}
