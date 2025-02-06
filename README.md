@@ -44,3 +44,8 @@
 <u>Topic Covered:-</u>
 * Build a app to make a clone of UCampus Home page.   
 ***
+<u>Date:- 06/02/2025 </u><br>
+<u>Topic Covered:-</u>
+* Build a app to make a UI of Weather Application.
+* Build a Cart page in Application.
+***
