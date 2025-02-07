@@ -49,3 +49,7 @@
 * Build a app to make a UI of Weather Application.
 * Build a Cart page in Application.
 ***
+<u>Date:- 07/02/2025 </u><br>
+<u>Topic Covered:-</u>
+* Build a Roll the dice app to understand the concept of Images.
+***
