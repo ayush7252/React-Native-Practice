@@ -53,3 +53,7 @@
 <u>Topic Covered:-</u>
 * Build a Roll the dice app to understand the concept of Images.
 ***
+<u>Date:- 08/02/2025 </u><br>
+<u>Topic Covered:-</u>
+* Build a App to generate random password using UpperCase, LowerCase, Symbols, Numeric Values.
+***
