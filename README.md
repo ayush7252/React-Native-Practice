@@ -69,3 +69,7 @@
 <u>Topic Covered:-</u>
 * Practice of Navigation using Drawer Navigation. 
 ***
+<u>Date:- 19/02/2025 </u><br>
+<u>Topic Covered:-</u>
+* Created a project to understand concept of grid and improve logic building. 
+***
