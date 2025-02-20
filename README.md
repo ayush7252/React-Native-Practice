@@ -73,3 +73,7 @@
 <u>Topic Covered:-</u>
 * Created a project to understand concept of grid and improve logic building. 
 ***
+<u>Date:- 20/02/2025 </u><br>
+<u>Topic Covered:-</u>
+* Practice of API's (List of API's). 
+***
